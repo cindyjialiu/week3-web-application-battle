@@ -18,6 +18,7 @@ require File.join(File.dirname(__FILE__), '..', 'app.rb')
 require 'capybara'
 require 'rspec'
 require 'capybara/rspec'
+require 'features/web_helper.rb'
 Capybara.app = Battle
 
 RSpec.configure do |config|
