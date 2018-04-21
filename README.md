@@ -1,1 +1,2 @@
-# week3-web-application-battle
+# Week3-web-application-battle
+## ruby web framework practise
